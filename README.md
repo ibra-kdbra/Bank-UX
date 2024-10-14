@@ -1,5 +1,13 @@
-# HooBank-A Modern UI/UX Landing Page using Next.JS and TailwindCSS
+# Bank-pp A Modern UI/UX Landing Page
+
+A website which is a product page of a Bank displaying its products features, clients , feedbacks and many more.
+
 ![Showcase image](/public/showcase_img.png)
+
+## 🏠 Built With:
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,vscode,vercel)](https://skillicons.dev)
+
 ### Link to Figma File:
 
 <p align="left">
@@ -10,11 +18,7 @@
   </a>
 </p>
 
-A website which is a product page of a Bank displaying its products features, clients , feedbacks and many more.
-
-
-
-## ℹ️ How to use this Repository?
+## ℹ️ How to use this ?
 
 1. Install the necessary dependencies
 ```bash
@@ -27,7 +31,3 @@ A website which is a product page of a Bank displaying its products features, cl
 ```
 
 The website should now be up and running on http://localhost:3000.
-
-## 🏠 Built With:
-
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,vscode,vercel)](https://skillicons.dev)
